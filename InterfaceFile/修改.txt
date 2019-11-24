@@ -1,0 +1,5 @@
+添加了一下功能：
+1.搜索：活动名字  ---- searchActivity
+2.返回已经填写的报名内容 ---- getSignUpMessage
+3.一个活动对应的管理员列表  -----getAllManager
+4.获取用户发的所有动态   ---- getUserMessage
